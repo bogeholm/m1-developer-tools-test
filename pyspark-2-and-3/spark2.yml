@@ -1,0 +1,7 @@
+name: pyspark2
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pyspark>=2.4.5,<3.0.0

@@ -1,0 +1,8 @@
+name: aws
+channels:
+  - default
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - awscli
