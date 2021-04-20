@@ -1,8 +1,9 @@
 # Test of developer tools on Apple M1
 
 This `README` covers setup. For some use cases, see subdirectories:
-- [`awscli`](awscli/): Install the Python [`awscli`](https://aws.amazon.com/cli/) with Anaconda
+- [`awscli`](awscli/): install the Python [`awscli`](https://aws.amazon.com/cli/) with Anaconda
 - [`pyspark-2-and-3`](pyspark-2-and-3/): example running on your choice of PySpark 2 or 3
+-[`docker-amd64`](docker-amd64/): build an `x86_64` Docker image on an M1 machine
 
 ## Basic tools
 
